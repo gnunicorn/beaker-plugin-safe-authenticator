@@ -1,0 +1,4 @@
+[submodule "src/safe_core"]
+	path = src/safe_core
+	url = https://github.com/maidsafe/safe_core.git
+	branch = dev
